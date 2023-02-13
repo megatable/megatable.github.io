@@ -40,6 +40,7 @@ a{
     flex-direction: row;
     align-items: center;
     justify-content: end;
+    cursor: pointer;
 }
 
 .minirightwrapper:hover {
@@ -110,6 +111,7 @@ a{
     align-items: center;
     justify-content: end;
     border-left: 1px solid black;
+    cursor: pointer;
 }
 
 .rightwrapper:hover {
@@ -376,6 +378,11 @@ a{
     height: 60px;
     width: 100%;
     border-left: 1px solid #00C008;
+    cursor: pointer;
+}
+
+.tier-footer:hover {
+    background-color: #00C008;
 }
 
 .tier-footer-title {
@@ -529,6 +536,10 @@ a{
 .f-links {
     color: #000000;
 
+}
+
+.link-limpo {
+    text-decoration: none;
 }
 
 
