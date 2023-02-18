@@ -646,6 +646,7 @@ a{
         border-left-style: none;
         background: linear-gradient(to bottom, #191919 90%, rgba(25, 25, 25, 0) 100%);
         padding-bottom: 70px;
+        top: 40px;
     }
     .ten-table-img {
         width: 100%;
