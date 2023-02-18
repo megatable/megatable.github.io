@@ -650,7 +650,7 @@ a{
     }
     .ten-table-img {
         width: 100%;
-        max-width: 30vh;
+        max-width: 20vh;
     }
     .effective-section {
         grid-template-columns: none;
